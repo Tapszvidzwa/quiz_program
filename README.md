@@ -12,7 +12,7 @@ topicstoReview
 
 For example,
 
-==========questions.txt====================
+// ==========questions.txt====================
 Who amogst these was an american president?
 Doritos
 Monsanto
@@ -20,5 +20,5 @@ Obama
 Hurricane
 2
 American Presidents, American Politics
-===========================================
+// ===========================================
 
